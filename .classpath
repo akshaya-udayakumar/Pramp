@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="KMessedArraySort"/>
+	<classpathentry kind="src" path="MatrixSpiralPrint"/>
+	<classpathentry kind="src" path="WordCountEngine"/>
+	<classpathentry kind="src" path="SentenceReverse"/>
+	<classpathentry kind="src" path="SmallestSubstringofAllCharacters"/>
+	<classpathentry kind="src" path="ValidBrackets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
